@@ -1,4 +1,7 @@
 
+import '../styles/globals.css';
+``
+
 export const metadata = {
   title: "Gael Linn Dashboard",
   description: "Gael Linn Application",
