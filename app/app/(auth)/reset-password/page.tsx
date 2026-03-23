@@ -38,11 +38,8 @@ export default function ResetPasswordPage() {
             style={{ padding: '0.5rem' }}
           />
 
-          {error && <p style={{ color: 'red' }}>{error}</p>}
+        
+   <p style={{ marginTop: '1rem' }}>
+        <a href="/login">Have an account? Log in</a>
+      </p>
 
-          <button style={{ padding: '0.5rem' }}>Update Password</button>
-        </form>
-      )}
-    </main>
-  );
-}
