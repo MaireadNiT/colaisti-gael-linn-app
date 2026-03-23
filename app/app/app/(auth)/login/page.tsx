@@ -57,11 +57,13 @@ export default function LoginPage() {
 
       <p style={{ marginTop: '1rem' }}>
         <a href="/register">Create an account</a>
+     
+<p style={{ marginTop: '1rem' }}>
+        <a href="/register">Create an account</a>
       </p>
-
       <p style={{ marginTop: '0.5rem' }}>
-        <a href="/forgot-password">Forgot your password?</a>
-      </p>
+        <a href="/forgot-password">Forgot
+
     </main>
   );
 }
